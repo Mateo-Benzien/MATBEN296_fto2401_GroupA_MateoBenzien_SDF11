@@ -1,6 +1,6 @@
 # SDF Presentation
-Loom Link: [Insert Here]
-Presentation Slides: [Insert Your Link Here]
+Loom Link: https://www.loom.com/share/1cca5e127b4747d3bc29e85113c94d3b?sid=27a0acaa-b71a-4ec2-bd9b-5cb4c1437828
+Presentation Slides: https://docs.google.com/presentation/d/1bcYcyGsOErtaaY8wdDyWRvaAU1tbPZkSF1KMbo1xD8k/edit?usp=sharing
 
 Presentation Slides Template: https://docs.google.com/presentation/d/1MTiIdjlDYyPIMa23tHK6QwpHWtk6G5zPw_n45aAr3D0/edit#slide=id.g1f203f4d459_0_15
 
